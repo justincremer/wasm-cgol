@@ -3,6 +3,9 @@ name = "wasm-cgol"
 version = "0.1.0"
 edition = "2018"
 
+[build]
+target = "wasm32-unknown-unknown"
+
 [lib]
 crate-type = ["cdylib"]
 
