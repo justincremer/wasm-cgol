@@ -1,0 +1,15 @@
+{
+  "name": "wasm-cgol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jacremer <jacremer@live.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "webpack": "^5.45.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
